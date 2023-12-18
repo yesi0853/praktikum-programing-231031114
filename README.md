@@ -1,5 +1,7 @@
 # Praktikum Pengantar Pemrograman
-
+<p> Nama : Yesi </p>
+<p> Nim : 231031114 </p>
+<p> Prodi : Sistem Informasi D </p>
 * Latihan 1 
   `231031114-yesi-latihan-1.py`
 * Latihan 2 
